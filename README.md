@@ -7,7 +7,7 @@ Check my profile here:
 
 <a href="https://www.linkedin.com/in/ana-paula-monetti-nishimoto/"> <img src="https://pnggrid.com/wp-content/uploads/2021/05/Linkedin-logo-Transparent-Image-1024x1024.png" width="50"/></a>
 
-## My stack
+## My current stack
 
 ### Main Language
 
@@ -24,3 +24,10 @@ Check my profile here:
 ### Back End
 
 <img src="https://img.icons8.com/fluency/344/node-js.png" width="50"/> <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" width="50"/> <img src="https://pbs.twimg.com/media/EGc7jg4XoAA0bez.png" width="50"/> <img src="https://expressjs.com/images/express-facebook-share.png" width="120"/> 
+
+## Projects
+
+- Ann Monamie: DIY projects organizing app
+    - Check the details here
+    - CLIENT: https://github.com/ananishimoto/ann-monamie-client/blob/master/README.md
+    - SERVER: https://github.com/ananishimoto/ann-monamie-server
