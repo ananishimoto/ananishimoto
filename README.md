@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hello, it's nice to have you here! ✨
 
-<!--
-**ananishimoto/ananishimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Ana and I had just graduated from a Full Stack Web Development Bootcamp in Codaisseur. These 10 weeks taught
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
