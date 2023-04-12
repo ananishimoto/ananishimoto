@@ -5,7 +5,7 @@ My name is Ana, a full stack developer!
 Want to know about my previous experiences? 
 Check my Linkedin profile here: 
 
-<a href="https://www.linkedin.com/in/ana-paula-monetti-nishimoto/"> <img src="https://pnggrid.com/wp-content/uploads/2021/05/Linkedin-logo-Transparent-Image-1024x1024.png" width="50"/></a>
+<a href="https://www.linkedin.com/in/ana-nishimoto/" target="_blank" rel="noopener noreferrer"> <img src="https://pnggrid.com/wp-content/uploads/2021/05/Linkedin-logo-Transparent-Image-1024x1024.png" width="50"/></a>
 
 ## My current stack
 
