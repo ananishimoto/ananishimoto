@@ -1,9 +1,9 @@
 # Hello, it's nice to have you here! ✨
 
-My name is Ana and I had just graduated from a Full Stack Web Development Bootcamp in Codaisseur. These 10 intensive course weeks taught me not only about coding, but how to structure a project and working in teams. Now, I'm willing to enter the job market as a Junior Web Developer!
+My name is Ana, a full stack developer!
 
 Want to know about my previous experiences? 
-Check my profile here: 
+Check my Linkedin profile here: 
 
 <a href="https://www.linkedin.com/in/ana-paula-monetti-nishimoto/"> <img src="https://pnggrid.com/wp-content/uploads/2021/05/Linkedin-logo-Transparent-Image-1024x1024.png" width="50"/></a>
 
@@ -24,10 +24,3 @@ Check my profile here:
 ### Back End
 
 <img src="https://img.icons8.com/fluency/344/node-js.png" width="50"/> <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" width="50"/> <img src="https://pbs.twimg.com/media/EGc7jg4XoAA0bez.png" width="50"/> <img src="https://expressjs.com/images/express-facebook-share.png" width="120"/> 
-
-## Projects
-
-- Ann Monamie: DIY projects organizing app
-    - Check the details here
-    - CLIENT: https://github.com/ananishimoto/ann-monamie-client/blob/master/README.md
-    - SERVER: https://github.com/ananishimoto/ann-monamie-server
