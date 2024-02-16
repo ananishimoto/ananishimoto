@@ -1,26 +1,10 @@
-# Hello, it's nice to have you here! ✨
+# Hi there! 👋
 
-My name is Ana, a full stack developer!
+My name is Ana, a full-stack web developer!
 
-Want to know about my previous experiences? 
-Check my Linkedin profile here: 
+In those past years, a lot changed in my life, and from being a photographer, I decided to change my career to software development! Now, I am excited for continuous improvement 😊
+See below my social medias! 
 
-<a href="https://www.linkedin.com/in/ana-nishimoto/" target="_blank" rel="noopener noreferrer"> <img src="https://pnggrid.com/wp-content/uploads/2021/05/Linkedin-logo-Transparent-Image-1024x1024.png" width="50"/></a>
-
-## My current stack
-
-### Main Language
-
-<img src="https://img.icons8.com/fluency/344/javascript.png" width="50"/>
-
-### Package Manager
-
-<img src="https://img.icons8.com/color/344/npm.png" width="50"/>
-
-### Front End
-                                                             
-<img src="https://rapidapi.com/blog/wp-content/uploads/2018/06/logo-2582748_640.png" width="50"/> <img src="https://icon-library.com/images/css-icon/css-icon-12.jpg" width="50"/> <img src="https://mui.com/static/logo.png" width="50"/>  <img src="https://img.icons8.com/color/344/react-native.png" width="50"/> <img src="https://img.icons8.com/color/344/redux.png" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/1280px-Axios_%28computer_library%29_logo.svg.png" width="120"/>
-
-### Back End
-
-<img src="https://img.icons8.com/fluency/344/node-js.png" width="50"/> <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" width="50"/> <img src="https://pbs.twimg.com/media/EGc7jg4XoAA0bez.png" width="50"/> <img src="https://expressjs.com/images/express-facebook-share.png" width="120"/> 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-nishimoto/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/moneshimoto/)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ana_nishimoto)
